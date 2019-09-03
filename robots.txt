@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofojiejow.sophyerduansumei.com/sitemap.xml
